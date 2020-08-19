@@ -1,6 +1,6 @@
 package _01_AnimalFarm;
 
-abstract public class Animals {
+public abstract class Animals {
 	abstract void makeNoise();
 	
 	abstract void eatFood();
